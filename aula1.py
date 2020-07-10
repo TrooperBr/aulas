@@ -12,11 +12,6 @@ c = math.sqrt(a+b)
 print('A sua hipotenuza é igual a {}'.format(c))
 
 
-
-
-
-
-
 if a < b:
 	print('Cateto 2 é maior que o cateto 1')
 	print('Q catetao gostozo')
