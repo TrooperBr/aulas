@@ -1,4 +1,6 @@
-a = input('qual o seu nome')
+import os
 
+comando = input('Digite o comando que quer executar :')
 
-print(f'ola {a}, meu nome é sará')
+os.system(comando)
+
